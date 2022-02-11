@@ -35,7 +35,7 @@ console.log(newArr2[0])
 //удаление по индексу
 let res =array.splice(0,3)
 console.log(res) // выводим что именно удалили
-console.log(array) // выводим массив с удаленнымffи 
+console.log(array) // выводим массив с удаленными 
 
 
 
